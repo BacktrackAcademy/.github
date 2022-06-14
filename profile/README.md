@@ -1,10 +1,9 @@
 ## Developer Backtrack Academy 👋
 
-
-🙋‍♀️ Somos una plataforma de Cursos online de Hacking ético y seguridad informática No esperes a ser víctima de un ciberataque, Desarrolla tus habilidades en ciberseguridad con nuestra plataforma Open Source, Te acompañamos para que te conviertas en un especialista del Hacking.
+🙋‍♀️ Somos una plataforma de cursos online de Hacking ético y seguridad informática en donde desarrollamos tus habilidades en ciberseguridad con nuestra plataforma, que ahora es de código abierto y tu te puedes desarrollar junto a nosotros.
 
 🌈 Pautas de contribución: ¿cómo puede involucrarse la comunidad?
-En el 2022 decidimos abrir nuestra plataforma y escribir esta historia junto a la comunidad, de esta forma queremos trabajar tanto con desarrolladores como hackers, si te gustaría escribir código escribenos [aca](https://forms.gle/YZgSYa8gyX1GywNB8)
+En el 2022 decidimos abrir nuestra plataforma y escribir esta historia junto a la comunidad, de esta forma queremos trabajar tanto con desarrolladores como hackers, si te gustaría escribir código escribenos [acá](https://forms.gle/YZgSYa8gyX1GywNB8)
 
 👩‍💻 Recursos útiles: ¿dónde puede encontrar la comunidad sus documentos? ¿Hay algo más que la comunidad deba saber? 
 Si quieres más información escribenos a felipe@backtrackacademy.
